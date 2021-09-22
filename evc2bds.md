@@ -4,7 +4,7 @@ The three deadlines I need to know for this semester are the Weekly Activity dea
 
 2. What are *professional development* activities and who should you ask 
 if you have any questions?
-The professional development activities are various activities that have a certain amount of points and each student must complete at least 8 points worth of activities. I should as Talia Miller if I have any questions. 
+The professional development activities are various activities that have a certain amount of points and each student must complete at least 8 points worth of activities. I should ask Talia Miller if I have any questions. 
 
 3. Will you need a textbook this semester?
 No, I will not need a textbook this semester. 
