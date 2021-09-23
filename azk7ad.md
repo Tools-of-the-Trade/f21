@@ -4,7 +4,7 @@
     Weekly Work due every wednesday (Oct 11-15 is a break)
     Survey deadlines
 2. What are *professional development* activities and who should you ask if you have any questions?
-    Professional Development activities are outlined in the Google Doc and are activities required for this class that help us build up skills that we can apply to our careers.
+    Professional Development activities are outlined in the Google Doc and are activities required for this class that help us build up skills that we can apply to our careers. We can ask Talia Miller any questions.
 3. Will you need a textbook this semester?
     No textbook needed!
 ### Introduction
