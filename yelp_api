@@ -1,0 +1,14 @@
+import requests
+url = "https://api.yelp.com/v3/businesses/search"
+need = open(r'C:\Users\Student\Desktop\textfile\yelp.txt').readlines()[0]
+headers = {
+  'Authorization' : Bearer %s' % key
+  }
+parameters = {'location': '1826 University Ave, Charlottesville, VA 22904',
+  'term': 'restaurants',
+  'radius' : 3000 #meters
+  'limit' : 5}
+output = need.get(url, headers = headers, params = parameters)
+listout = output.json()['businesses']
+for i in listout:
+  print('Restaurant: {}'.format(i['name']))
